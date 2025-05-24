@@ -85,3 +85,12 @@
  
 ## 시스템 다이어그램
 ![image](https://github.com/user-attachments/assets/8f9617be-71ff-40e1-a34b-eca0e62fa9bf)
+
+### 연계 서비스 리포지토리
+1. blackFriday-OrderService
+2. blackFriday-DeliveryService
+3. blackFriday-PaymentService
+4. blackFriday-SearchService
+5. blackFriday-CatalogService
+6. blackFriday-MemberService
+
